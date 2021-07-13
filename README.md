@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josmi-agnes-jose" alt="josmi-agnes-jose" /></a> </p>
 
-- 🌱 I’m currently learning **M.Sc Big Data Analytics.**
-
 - 📫 How to reach me **josmivattamala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
