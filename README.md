@@ -1,4 +1,4 @@
-<img align="center"  width="1000" src=./banner.png >
+<img align="center"  width="1000" src=./github.PNG>
 
 <h1 align="center">Hi 👋, I'm Josmi</h1>
 <h3 align="center">A passionate learner who is progressively developing the ability to deliver valuable insights through data analytics and advanced data-driven methods.</h3>
