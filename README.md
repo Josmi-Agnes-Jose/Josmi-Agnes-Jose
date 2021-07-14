@@ -1,6 +1,6 @@
 <img align="center"  width="1000" src=./github.PNG>
 
-<h1 align="center">Hi 👋, I'm Josmi</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate learner who is progressively developing the ability to deliver valuable insights through data analytics and advanced data-driven methods.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josmi-agnes-jose&label=Profile%20views&color=0e75b6&style=flat" alt="josmi-agnes-jose" /> </p>
